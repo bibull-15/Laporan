@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    -webkit-text-fill-color: white;
+    text-shadow: 2px 4px 1px black;
+    
+}
+
+body {
+    background-image: url('bgunp.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.LogoUNP{
+    width: 120px;
+    height: 120px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 1px black;
+}
+
+body table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    table-layout: fixed;
+    width: 80%;
+    text-align: center;
+    background-color: white;
+    opacity: 85%;
+}
+th, td {
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 16.66%;
+}
+h2{
+    width: 80%;
+    text-align: justify;
+    text-align-last: left;
+    text-shadow: 3px 4px 1px black;
+    -webkit-text-fill-color:white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2px;
+
+
+}
